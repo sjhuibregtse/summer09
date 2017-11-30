@@ -1,0 +1,120 @@
+body {
+	font-family: Verdana, Tahoma, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	background-color: #062270;
+	margin: 0;
+	margin-left: 3.2em;
+	width: 915px;
+
+}
+h1 {
+	color: #FFFFFF;
+
+}
+h2 {
+	color: #015C65;
+	background-color: #FFAD00;
+}
+h3 {
+	
+}
+li {
+	list-style-type: square;
+}
+div.content {
+	
+}
+p.intro {
+	text-align: justify;
+}
+.workCited {
+}
+
+.footer {
+	background-color: #5EC4CD;
+	color: #2B4281;
+	margin-top: 5em;
+	font-size: 10px;
+	text-align: right;
+		
+}
+span#code {
+	color: #FF8C00;
+	font-family: "Courier New";
+	
+}
+a {
+	font-weight: bold;
+	text-decoration: none;
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: gray;
+}
+a:hover {
+	
+	color: white;
+	
+}
+a:active {
+	color: aqua;
+}
+#navcontainer ul {
+	list-style-type: none;
+	width: 100%;
+	border-left: 1px solid #FFFFFF;
+	margin-left: 0;
+	background-color: #8A6ED7;
+}
+#navcontainer li {
+	display: inline;
+}
+#navcontainer a { 
+	float: left;
+	width: 125px;
+	text-decoration: none;
+	color: #230672;
+	font-weight:bold;
+	background: #8A6ED7;
+	padding: 5px;
+	border-right: 1px solid #FFFFFF;
+	text-align: center;
+}
+#navcontainer a:hover {
+	background: #230672;
+	color: #FFF;
+	
+}
+a#current {
+	background: #230672;
+	color: #FFF;
+}
+#AliceDays ul {
+	list-style-type: none;
+	width: 100%;
+	border-left: 1px solid #FFFFFF;
+	margin-left: 0;
+	background-color: #5EC4CD;
+}
+#AliceDays li {
+	display: inline;
+}
+#AliceDays a { 
+	float: left;
+	width: 110px;
+	text-decoration: none;
+	color: #230672;
+	font-weight:bold;
+	background: #5EC4CD;
+	padding: 5px;
+	border-right: 1px solid #FFFFFF;
+	text-align: center;
+}
+#AliceDays a:hover {
+	background: #230672;
+	color: #FFF;
+	
+}
